@@ -1,0 +1,9 @@
+Steps for executing this program :
+
+1) javac ClassTwo.java
+
+after executing this command observe your directory jvm will add two class file
+
+2) java ClassTwo  : this command gives you output on terminal because this class contains main method
+
+ 

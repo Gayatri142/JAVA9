@@ -1,0 +1,11 @@
+Steps for executing this program :
+
+1) javac ByDefault.java
+2) java DemoMain  : this command gives you output on terminal
+3) now to see which things are included by jvm execute following command to see byte code
+  	javap -c ByDefault.class
+  now press enter and observe the code
+  
+  	javap -c DemoMain.class
+   now press enter and observe the code
+ 
